@@ -1,4 +1,4 @@
-# Skill-6 Spring MVC Web Request Handling Demo
+#==> Spring MVC Web Request Handling Demo
 This project demonstrates basic Spring Boot MVC request handling.
 
 Features implemented:
